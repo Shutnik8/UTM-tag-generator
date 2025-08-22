@@ -13,7 +13,7 @@ body {
   overflow: hidden;
 }
 
-/* Эффект "падающего кода" на фоне */
+/* Falling code effect on background */
 .matrix-bg {
   position: fixed;
   top: 0; left: 0;
@@ -69,7 +69,7 @@ label {
 } */
 
 input, textarea {
-  box-sizing: border-box;  /* Включает padding и border в общую ширину */
+  box-sizing: border-box;  /* Includes padding and border in the total width */
   width: 100%;
   background: #000;
   color: #00ff6a;
@@ -135,7 +135,7 @@ button:hover {
   right: 15px;
   color: #00ff6a;
   font-family: 'Share Tech Mono', monospace;
-  font-size: 42px; /* примерно в 3 раза больше */
+  font-size: 42px; /* about 3 times more */
   opacity: 0.8;
   letter-spacing: 2px;
   user-select: none;
