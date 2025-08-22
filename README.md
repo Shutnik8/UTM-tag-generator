@@ -4,7 +4,7 @@
 A simple and convenient tool for generating UTM-tagged links.  
 Perfect for setting up analytics in **Google Analytics, Yandex.Metrica, and other tracking systems**.  
 
-👉 Live demo: [Open Generator](https://USERNAME.github.io/utm-generator/)  
+👉 Live demo: [Open Generator](https://shutnik8.github.io/UTM-tag-generator/)  
 
 ---
 
