@@ -18,7 +18,7 @@ document.getElementById('utm-form').addEventListener('submit', function(e) {
   document.getElementById('result-url').value = url.toString();
 });
 
-// Эффект печатающегося текста
+// Printed text effect
 document.addEventListener("DOMContentLoaded", () => {
   const typingElement = document.getElementById("typing-text");
   const text = typingElement.getAttribute("data-text");
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (i < text.length) {
       typingElement.textContent += text.charAt(i);
       i++;
-      setTimeout(typeChar, 100); // скорость печати (мс)
+      setTimeout(typeChar, 100); // print speed (ms)
     }
   }
 
